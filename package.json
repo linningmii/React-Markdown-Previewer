@@ -1,0 +1,11 @@
+{
+  "name": "React-Markdown-Previewer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://linningmii@github.com/linningmii/React-Markdown-Previewer.git",
+  "author": "linzhongming <lin.zh.ming.27@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
